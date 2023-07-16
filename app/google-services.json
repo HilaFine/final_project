@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134556947415",
+    "project_id": "recipe-app-a0b6d",
+    "storage_bucket": "recipe-app-a0b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134556947415:android:d7b2617e95a2fe60c2b192",
+        "android_client_info": {
+          "package_name": "dev.hilaferberfine.mysecretfamilyrecipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134556947415-75nka3jgr1013qj84kaa74mev6vaopdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJoDTDEOeqsuL4aCH_1NsfWWUDPcbYS4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134556947415-75nka3jgr1013qj84kaa74mev6vaopdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
